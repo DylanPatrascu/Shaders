@@ -1,3 +1,5 @@
+This project has three shaders implemented in Shader Graphs. Here is how to view each one: <br> 
+
 Acid Effect: <br>
 Go to the Acid Effect Folder, click on the material, and check the 3 boxes for vignette, distortion, and tint. <br>
 
